@@ -67,7 +67,11 @@ namespace HelloManchego
         using (StreamReader fileInput = new StreamReader(filePath))
         {
           // Read each line from questions.txt
-          // Assign each line as a new key/value pair in questionsAnswers dictionary, separated by the colon
+          string line;
+          while ((line = fileInput.ReadLine()) != null)
+          {
+            // Assign each line as a new key/value pair in questionsAnswers dictionary, separated by the colon
+          }
         }
       }
       catch (IOException ex)
