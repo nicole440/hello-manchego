@@ -1,0 +1,13 @@
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.AssemblyInfoInputs.cache
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.AssemblyInfo.cs
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.exe
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.deps.json
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.runtimeconfig.json
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.runtimeconfig.dev.json
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.dll
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\bin\Debug\netcoreapp3.1\HelloManchego.pdb
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.dll
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.pdb
+C:\Users\Nicole\Git\Cheese-Jeopardy\HelloManchego\obj\Debug\netcoreapp3.1\HelloManchego.genruntimeconfig.cache
