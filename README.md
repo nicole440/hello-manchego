@@ -10,7 +10,7 @@ To play Hello Manchego, you'll need:
 ### Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/hello-manchego.git
+git clone https://github.com/nicole440/hello-manchego.git
 ```
 
 2. Navigate to the project directory:
