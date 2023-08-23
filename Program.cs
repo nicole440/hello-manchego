@@ -22,10 +22,10 @@ namespace HelloManchego
     void run()
     {
       Console.WriteLine("Welcome to Hello Manchego, a Jeopardy-esque command line game where the only topic is cheese.");
-      guageReadinessPrompt();
+      gaugeReadinessPrompt();
     }
 
-    void guageReadinessPrompt()
+    void gaugeReadinessPrompt()
     {
       Console.WriteLine("Are you ready to play? (Y/N)");
       string response = Console.ReadLine();
@@ -47,7 +47,7 @@ namespace HelloManchego
       else
       {
         Console.WriteLine("Please enter a valid response (Y/N).");
-        guageReadinessPrompt();
+        gaugeReadinessPrompt();
       }
       return isPlaying;
     }
