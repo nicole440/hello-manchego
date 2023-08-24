@@ -1,17 +1,13 @@
 using System;
-using System.IO;
-using System.Collections.Generic;
 
 namespace HelloManchego
 {
+  // Command Line Interface
   class Program
   {
     private bool isPlaying = true;
-    private int points = 0;
-    private const int POINTS_PER_QUESTION = 10;
-    private const string filePath = "questions.txt";
-    Dictionary<string, string> questionsAnswers = new Dictionary<string, string>();
-    // static string[] questionsArray;
+    private Score score = new Score();
+    private QuestionReader allQuestions = new QuestionReader();
 
     static void Main(string[] args)
     {
@@ -54,41 +50,12 @@ namespace HelloManchego
 
     void askQuestion()
     {
-      getQuestion();
+      // Get the next question from list of questions
+      // Then print to console
+
       Console.WriteLine("What is... ");
       string question = Console.ReadLine();
 
-    }
-
-    void questionsAndAnswersToDict()
-    {
-      try
-      {
-        using (StreamReader fileInput = new StreamReader(filePath))
-        {
-          // Read each line from questions.txt
-          string line;
-          while ((line = fileInput.ReadLine()) != null)
-          {
-            // Assign each line as a new key/value pair in questionsAnswers dictionary, separated by the colon
-          }
-        }
-      }
-      catch (IOException ex)
-      {
-        Console.WriteLine(ex.Message);
-      }
-    }
-
-    string getQuestion()
-    {
-      return "";
-    }
-
-    int awardPoints()
-    {
-      points += POINTS_PER_QUESTION;
-      return points;
     }
   }
 }
